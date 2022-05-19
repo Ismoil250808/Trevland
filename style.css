@@ -1,0 +1,437 @@
+.container {
+    max-width: 1200px;
+    margin-left: 230px;
+    margin-right: 230px;
+}
+
+header {
+    background: url(img/photo_2022-04-30_13-23-03.jpg) center/cover;
+    height: 800px;
+
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+header ul {
+    display: flex;
+    margin-top: 42px;
+}
+
+header a {
+    text-decoration: none;
+}
+
+header li {
+    list-style: none;
+}
+
+header ul a {
+    font-size: 17px;
+    color: #FFFFFF;
+    margin-left: 35px;
+    align-items: center;
+    margin-left: 50px;
+    transition: 0.5s;
+
+}
+
+header img {
+    margin-left: 230px;
+    margin-top: 42px;
+}
+
+header nav p {
+    color: #FFFFFF;
+    font-size: 16px;
+    margin-top: 42px;
+    background-color: #C9453B;
+    width: 90px;
+    height: 25px;
+    border-radius: 5px;
+    align-items: center;
+    padding: 14px 35px;
+    margin-right: 242px;
+}
+
+.headiv h1 {
+    color: #FFFFFF;
+    font-size: 50px;
+    line-height: 70px;
+    margin-top: 180px;
+}
+
+.hp1 {
+    font-size: 16px;
+    color: rgba(188, 188, 188, 0.646);
+    margin-top: 20px;
+    line-height: 23px;
+}
+
+.hp {
+    color: #FFFFFF;
+    font-size: 16px;
+    margin-top: 42px;
+    background-color: #C9453B;
+    width: 90px;
+    height: 25px;
+    border-radius: 5px;
+    align-items: center;
+    padding: 14px 35px;
+}
+
+
+.q1 {
+    font-size: 43px;
+    font-family: 'Gelasio';
+    text-align: center;
+    margin-top: 82px;
+}
+
+.q2 {
+    text-align: center;
+    color: rgba(15, 15, 15, 0.336);
+    margin-top: 30px;
+    font-size: 18px;
+    line-height: 160%;
+}
+
+.q3 {
+    display: flex;
+    justify-content: space-around;
+    width: 1150px;
+    margin-left: 170px;
+    margin-right: 170px;
+}
+
+.q4 {
+    border: 1px solid #0000001A;
+    height: 500px;
+    width: 360px;
+    border-radius: 10px;
+    margin-top: 40px;
+
+}
+
+.q4 img {
+    height: 331px;
+    width: 360px;
+}
+
+.q4 h5 {
+    font-size: 24px;
+    text-align: center;
+    font-weight: normal;
+    margin-top: 40px;
+}
+
+.q4 p {
+    font-size: 18px;
+    line-height: 160%;
+    text-align: center;
+    color: rgba(15, 15, 15, 0.336);
+    margin-top: 20px;
+}
+
+.q5 {
+    margin-top: 190px;
+}
+
+.q5 h1 {
+    font-size: 43px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.ld {
+    text-align: center;
+    font-size: 18px;
+    line-height: 160%;
+    color: #757575;
+    margin-top: 20px;
+}
+
+.q5f h1 {
+    font-size: 43px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.q5f p {
+    text-align: center;
+    font-size: 18px;
+    line-height: 160%;
+    color: #757575;
+    margin-top: 20px;
+}
+
+.q5f {
+    margin-top: 110px;
+}
+
+.q6-1 h3 {
+    height: 32px;
+    left: 230px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.q6-1 p {
+    width: 470px;
+
+    font-size: 18px;
+    color: #757575;
+    margin-top: 10px;
+}
+
+.q6-1 h2 {
+    width: 192px;
+    height: 30px;
+    font-size: 18px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.q6-1 {
+    margin-top: 60px;
+}
+
+.q6-2 h3 {
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.q6-2 p {
+    font-size: 18px;
+    color: #757575;
+    margin-top: 10px;
+    line-height: 160%;
+    margin-left: 10px;
+}
+
+.q6-2 h2 {
+    font-weight: normal;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.q6-2 {
+    display: flex;
+}
+
+.q6 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.q5d div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.q5d {
+    width: 222px;
+}
+
+.q5-all {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.q5d h3 {
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.m2 {
+    display: flex;
+}
+
+.m2 span {
+    color: #FFFFFF;
+}
+
+.m3 span {
+    color: white;
+}
+
+.m2 i {
+    color: #FC1200;
+}
+
+.m2 p {
+    font-size: 20px;
+    color: #757575;
+}
+
+.m3 i {
+    color: yellow;
+}
+
+.m3 h6 {
+    font-size: 18px;
+}
+
+.m4 {
+    font-size: 16px;
+    color: #757575;
+    margin-top: 10px;
+}
+
+.m5 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.m6 {
+    color: #757575;
+}
+
+.m7 {
+    margin-top: 10px;
+}
+
+.q5d h3 {
+    margin-top: 13px;
+}
+
+.q6-main {
+    flex-direction: column;
+    display: flex;
+}
+
+.q6-otdel {
+    display: flex;
+    flex-direction: column;
+    margin-top: 60px;
+}
+
+.m9 {
+    margin-top: 20px;
+}
+
+.m0 {
+    margin-top: 20px;
+}
+
+.n1 {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.i1 {
+    font-size: 40px;
+    color: rgba(201, 69, 59, 0.1);
+    border-radius: 10px;
+}
+
+.i2 {
+    font-size: 40px;
+    color: #C9453B;
+}
+
+.i3 {
+    margin-left: 300px;
+}
+
+.i4 {
+    margin-right: 300px;
+}
+
+footer {
+    background: rgba(38, 148, 153, 0.04);
+    width: 1518px;
+    height: 348px;
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer ul li {
+    list-style: none;
+}
+
+footer li a {
+    text-decoration: none;
+    color: black;
+}
+
+.f0 {
+    margin-right: 230px;
+}
+
+.f1 {
+    margin-top: 80px;
+}
+
+.d3 {
+    margin-top: 29px;
+    font-size: 16px;
+}
+
+.d2 {
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.f1 img {
+    margin-top: 10px;
+}
+
+.f2 li {
+    font-size: 16px;
+    line-height: 190%;
+    font-weight: bold;
+}
+
+.f2 {
+    margin-top: 80px;
+}
+
+.f5 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.f6 {
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    width: 195px;
+    padding: 5px 0 10px 0;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+.f7{
+    color: #FFFFFF;
+    font-size: 16px;
+    background-color: #C9453B;
+    width: 80px;
+    height: 25px;
+    border-radius: 5px;
+    text-align: center;
+    align-items: center;
+    padding: 5px 10px;
+    margin-left: 20px;
+}
+.f0 h2{
+    margin-top: 80px;
+    font-size: 20px;
+}
